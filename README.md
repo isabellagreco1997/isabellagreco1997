@@ -1,7 +1,7 @@
 <!-- welcome to my tiny corner of the internet ✿ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isabellagreco1997/isabellagreco1997/master/assets/isa-anime-kawaii-header.jpg" alt="Isa Greco — anime kawaii software developer, games and AI" width="100%" />
+  <img src="https://raw.githubusercontent.com/isabellagreco1997/isabellagreco1997/master/assets/isa-anime-kawaii-header-v2.png" alt="Isa Greco — anime kawaii software developer, games and AI" width="100%" />
 </p>
 
 <p align="center">
