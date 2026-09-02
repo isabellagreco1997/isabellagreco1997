@@ -1,70 +1,90 @@
-<!-- welcome to my tiny corner of the internet ✿ -->
+<!-- * you feel like you're going to have a good time. -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isabellagreco1997/isabellagreco1997/master/assets/isa-anime-kawaii-header-v6.png" alt="Isa Greco — anime kawaii software developer, games and AI" width="100%" />
+  <img src="https://raw.githubusercontent.com/isabellagreco1997/isabellagreco1997/master/assets/undertale-header.png" alt="isa — LV 1 — london — FIGHT ACT ITEM MERCY" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💗_software_developer-FF8EBD?style=for-the-badge&labelColor=FEEAF3" alt="Software Developer" />
-  <img src="https://img.shields.io/badge/🎮_game_maker-B59CE8?style=for-the-badge&labelColor=F1ECFF" alt="Game Maker" />
-  <img src="https://img.shields.io/badge/🤖_AI_explorer-73CDBD?style=for-the-badge&labelColor=E8FAF7" alt="AI Explorer" />
-</p>
-
-## ૮ ˶ᵔ ᵕ ᵔ˶ ა  hello!
-
-I'm **Isa**, a software developer who likes her code clever, her interfaces charming, and her side projects slightly magical.
-
-I build little worlds, useful tools, and experiments at the intersection of **games, AI, and creative technology**. Think of this as my digital dev desk: a place for prototypes, problem-solving, and occasional weird ideas that deserve to exist.
-
-```js
-const isa = {
-  occupation: "software developer",
-  party: ["games", "AI", "creative tech"],
-  energy: "curious ✨",
-  currentQuest: "turning ideas into tiny, delightful realities"
-};
+```
+* isa appears.
+* software developer in london. games, ai, creative tech.
+* she likes her code clever, her interfaces charming,
+  and her side projects slightly magical.
 ```
 
-## ♡ my dev skill tree
+## ❤ ACT
 
-| level-up | favourite kind of quest |
+```
+      * Check          * Talk
+      * Build          * Play
+```
+
+**\* Check**
+```
+ISA  -  ATK 7  DEF 10
+* creative ai engineer. code × imagination × intelligence.
+* builds little worlds, useful tools, and experiments where
+  games, ai and creative tech collide.
+* weakness: a good side quest.
+```
+
+**\* Build**
+| quest | what it actually means |
 | :-- | :-- |
-| 🎮 **playful systems** | Games, mechanics, interactive experiences |
-| 🤖 **friendly intelligence** | AI experiments with real personality |
-| 🧁 **sweet engineering** | Clean code, useful tools, thoughtful details |
-| ✧ **creative tech** | Making software feel a little more alive |
+| 🎮 playful systems | games, mechanics, things you can poke |
+| 🤖 friendly intelligence | ai with an actual personality |
+| 🧁 sweet engineering | clean code, useful tools, the small details nobody asked for |
+| ✦ creative tech | software that feels a bit alive |
 
-## ✦ projects in my backpack
+**\* Talk**
+```
+* you tell isa about your odd prototype idea.
+* she's already opening a new tab.
+```
+[open an issue and say hi →](https://github.com/isabellagreco1997/isabellagreco1997/issues/new)
+
+**\* Play**
+```
+* current quest: making ambitious ideas feel playable.
+* especially where ai, games and nice dev tools meet.
+```
+
+## ❤ ITEM
+
+```
+* you check the backpack.
+```
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🧩 [RPG Maker Tileset Creator](https://github.com/isabellagreco1997/rpg-maker-tileset-creator)
+### ✦ [sprite-forge](https://github.com/isabellagreco1997/sprite-forge)
 
-A creative game-dev tool for building worlds, one cute tile at a time.
-
-[peek inside →](https://github.com/isabellagreco1997/rpg-maker-tileset-creator)
+any pixel-art image → clean sprites, new poses, animations. built by getting it wrong 13 times and writing every one down.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🗺️ [Network Mapper](https://github.com/isabellagreco1997/network-mapper)
+### 🧩 [rpg maker tileset creator](https://github.com/isabellagreco1997/rpg-maker-tileset-creator)
 
-A systems-thinking project about turning complicated connections into something visible.
+build worlds one cute tile at a time.
 
-[peek inside →](https://github.com/isabellagreco1997/network-mapper)
+</td>
+<td width="33%" valign="top">
+
+### 🗺️ [network mapper](https://github.com/isabellagreco1997/network-mapper)
+
+turn complicated connections into something you can actually see.
 
 </td>
 </tr>
 </table>
 
-## ｡ﾟ•┈୨♡୧┈•ﾟ｡ now brewing
+## ❤ MERCY
 
-> **Current quest:** making ambitious ideas feel playable — especially where AI, games, and beautiful developer tools collide.
+```
+* Spare
 
-Got an interesting problem or an odd prototype idea? [Open an issue](https://github.com/isabellagreco1997/isabellagreco1997/issues/new) and say hi ♡
-
-<p align="center">
-  <sub>made with curiosity, snacks, and just a few too many tabs open ✿</sub>
-</p>
+* made with curiosity, snacks, and a few too many tabs open.
+* you are filled with determination.
+```
