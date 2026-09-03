@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/header-v2.svg" width="100%" alt="ISA_GRECO.EXE · ONLINE · Hi, I'm Isa · LVL 08 · Software Engineer · UK" />
+<img src="assets/header-v3.svg" width="100%" alt="ISA_GRECO.EXE · ONLINE · Hi, I'm Isa · LVL 08 · Software Engineer · UK" />
 <img src="assets/whoami.svg" width="100%" alt="whoami: UK-based Software Engineer with a Game and Graphic Design background, 8 years in tech, exploring web development, 3D rendering and generative AI" />
 <a href="https://www.youtube.com/@itsisagreco"><img src="assets/broadcast.svg" width="100%" alt="Latest broadcast: watch the latest upload on YouTube @itsisagreco" /></a>
 <img src="assets/arsenal.svg" width="100%" alt="Equipped arsenal: React, Three.js, Tailwind CSS, JavaScript, Node.js, Generative AI, Cursor, Figma" />
